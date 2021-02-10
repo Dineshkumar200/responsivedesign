@@ -227,6 +227,7 @@ Publish the website in the given URL.
 ![output](./static/img/s2.jpg)
 
 ![output](./static/img/s3.jpg)
+![output](./static/img/s5.jpg)
 
 
 ## CODE VALIDATION REPORT
